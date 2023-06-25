@@ -17,6 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 
+#Login
 Feature: Facebook login functionality
 
 
